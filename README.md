@@ -1,4 +1,4 @@
-# tapigo_test_result
+#  Client web application with nuxtJS/vue using JSON file for posts.
 
 ## Build Setup
 
@@ -17,10 +17,7 @@ $ npm run start
 $ npm run generate
 ```
 
-# Client web application with nuxtJS/vue using JSON file for posts.
-
-
-<!-- ## Concurrently RUN example
+## Concurrently RUN example
 ![My Image](./screen-1.png)
 
 ## CLIENT
@@ -30,4 +27,4 @@ $ npm run generate
 ![My Image](./screen-3.png)
 
 ## RABBITMQ - example new user with opened auth
-![My Image](./screen-4.png) -->
+![My Image](./screen-4.png) 
