@@ -16,15 +16,3 @@ $ npm run start
 # generate static project
 $ npm run generate
 ```
-
-## Concurrently RUN example
-![My Image](./screen-1.png)
-
-## CLIENT
-![My Image](./screen-2.png)
-
-## RESULT
-![My Image](./screen-3.png)
-
-## RABBITMQ - example new user with opened auth
-![My Image](./screen-4.png) 
